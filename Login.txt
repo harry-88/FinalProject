@@ -1,0 +1,7 @@
+1,1212,Haris,Admin,Admin
+1,1,haris,ICSP,Student
+2,2,haris,ICSP,Student
+T1,1,Saad,Physics,Teacher
+T2,2,Saad,Physics,Teacher
+T3,3,Saad,Biology,Teacher
+3,3,hammad,FSCM,Student
